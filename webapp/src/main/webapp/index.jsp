@@ -1,1 +1,1 @@
-<h2> This is a hello world for the Terraform Devops Training Course!</h2>
+<h2> This is Blake making a change to validate that CD works!!</h2>
